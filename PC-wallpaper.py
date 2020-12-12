@@ -1,8 +1,8 @@
 import os
 import cv2
 
-file_path = "E:\GitHub Desktop\GitHub\pictruebed\PC-wallpaper\\"
-web_path = "https://cdn.jsdelivr.net/gh/anderson-ryen/pictruebed/PC-wallpaper/"
+file_path = "E:\GitHub Desktop\GitHub\pictruebad-one\PC-wallpaper\\"
+web_path = "https://cdn.jsdelivr.net/gh/pp-china/pictruebad-one/PC-wallpaper/"
 
 
 def img_resize(image_path):

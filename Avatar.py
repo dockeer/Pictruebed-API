@@ -1,8 +1,8 @@
 import os
 import cv2
 
-file_path = "E:\GitHub Desktop\GitHub\pictruebed\Avatar\\"
-web_path = "https://cdn.jsdelivr.net/gh/anderson-ryen/pictruebed/Avatar/"
+file_path = "E:\GitHub Desktop\GitHub\pictruebad-one\Avatar\\"
+web_path = "https://cdn.jsdelivr.net/gh/pp-china/pictruebad-one/Avatar/"
 
 def img_resize(image_path):
     image = cv2.imread(file_path+image_path)
